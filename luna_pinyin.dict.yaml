@@ -31,6 +31,12 @@ name: luna_pinyin
 version: "2020.02.08"
 sort: by_weight
 use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin.cn_en
+  - luna_pinyin.computer
+  - luna_pinyin.emoji
+  - luna_pinyin.hanyu
+  - luna_pinyin.sgmain
 ...
 
 〇	ling
